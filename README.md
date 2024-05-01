@@ -30,6 +30,6 @@ Selection of the top 3 all-rounders for your team.
 This project aims to provide valuable insights and predictions for IPL enthusiasts, analysts, and teams.
 
 # 📊 Links:
-Power BI Dashboard: https://lnkd.in/dqTp9dTi
+Power BI Dashboard: https://lnkd.in/gCvHHx56
 
 Presentation Link : https://lnkd.in/dN2m-Dmh
