@@ -3,6 +3,10 @@
 ## 📝Problem Statement:
 "Sports Basics," a recent entrant in the sports blog space, aims to boost website traffic by releasing a special edition magazine on IPL 2024. To provide engaging insights and facts, they turn to data analytics. Chief Editor Tony Sharma entrusts Peter Pandey, a data-savvy cricket enthusiast, with this task.
 
+🔗[Power BI Dashboard](https://lnkd.in/gCvHHx56)</br>
+🔗[LinkedIn Post](https://www.linkedin.com/posts/pravesh-agarwal27_resumeprojectchallenge-datadrivendecisions-activity-7190778010944290817-rQC8?utm_source=share&utm_medium=member_desktop)</br>
+🔗[Presentation Link](https://lnkd.in/dN2m-Dmh)</br>
+
 ## 💡Primary and Secondary Analysis:
 
 ### ✨Primary Insights:
@@ -35,8 +39,3 @@
 ## 🎯Project Outcome
 
 This project aims to provide valuable insights and predictions for IPL enthusiasts, analysts, and teams.
-
-## 📊 Links:
-- [Power BI Dashboard](https://lnkd.in/gCvHHx56)</br>
-- [LinkedIn Post](https://www.linkedin.com/posts/pravesh-agarwal27_resumeprojectchallenge-datadrivendecisions-activity-7190778010944290817-rQC8?utm_source=share&utm_medium=member_desktop)</br>
-- [Presentation Link](https://lnkd.in/dN2m-Dmh)</br>
