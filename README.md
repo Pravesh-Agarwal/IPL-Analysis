@@ -36,8 +36,6 @@
 - 𝐃𝐞𝐜𝐤𝐭𝐨𝐩𝐮𝐬.𝐚𝐢: For presentation
 - 𝐎𝐁𝐒 𝐒𝐭𝐮𝐝𝐢𝐨: For recording audio
 
-🔗you can find the full report PDF file here : [Report](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Report/IPL%20Insights.pdf)
-
 ## 🏠Homepage
 
 ![Homepage.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Homepage.png)
@@ -85,6 +83,8 @@
 ## 🆕Latest Match
 
 ![2024 Latest Match.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/2024%20Latest%20Match.png)
+
+🔗you can find the full report PDF file here : [Report](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Report/IPL%20Insights.pdf)
 
 ## 🎯Project Outcome
 
