@@ -32,9 +32,9 @@
 
 ## 🛠️Tools Used:
 
-- 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈: For dashboard
-- 𝐃𝐞𝐜𝐤𝐭𝐨𝐩𝐮𝐬.𝐚𝐢: For presentation
-- 𝐎𝐁𝐒 𝐒𝐭𝐮𝐝𝐢𝐨: For recording audio
+- **Power BI**: For dashboard
+- **PowerPoint**: For presentation
+- **OBS Studio**: For recording audio
 
 ## 🏠Homepage
 
