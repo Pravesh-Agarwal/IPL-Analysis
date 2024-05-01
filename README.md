@@ -36,6 +36,57 @@
 - 𝐃𝐞𝐜𝐤𝐭𝐨𝐩𝐮𝐬.𝐚𝐢: For presentation
 - 𝐎𝐁𝐒 𝐒𝐭𝐮𝐝𝐢𝐨: For recording audio
 
+🔗you can find the full report PDF file here : [Report](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Report/IPL%20Insights.pdf)
+
+## 🏠Homepage
+
+![Homepage.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Homepage.png)
+
+## 📆Fixtures & Results
+
+![Fixtures & Results.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Fixtures%20%26%20Results.png)
+
+## 📊Points Table
+
+![Points Table.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Points%20Table.png)
+
+## 🟠Orange Cap Stats
+
+![Orange Cap Stats.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Orange%20Cap%20Stats.png)
+
+## 🟣Purple Cap Stats
+
+![Purple Cap Stats.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Purple%20Cap%20Stats.png)
+
+## 👥All Teams
+
+![All Teams.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/All%20Teams.png)
+
+## 🕵️‍♂️Player Analysis - Power Hitters
+
+![Player Analysis - Power Hitters.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Power%20Hitters.png)
+
+## 🕵️‍♂️Player Analysis - Anchors
+
+![Player Analysis - Anchors.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Anchors.png)
+
+## 🕵️‍♂️Player Analysis - Finishers/Allrounders
+
+![Player Analysis - Allrounders (Finishers).png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Allrounders%20(Finishers).png)
+
+## 🕵️‍♂️Player Analysis - Bowlers
+
+![Player Analysis - Bowlers.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Bowlers.png)
+
+## 🏆Final XI
+
+![Final XI.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Final%20XI.png)
+
+## 🆕Latest Match
+
+![2024 Latest Match.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/2024%20Latest%20Match.png)
+
 ## 🎯Project Outcome
 
 This project aims to provide valuable insights and predictions for IPL enthusiasts, analysts, and teams.
+
