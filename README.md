@@ -18,7 +18,7 @@
 - Top 4 teams based on winning percentage in the last 3 years.</br>
 - Top 2 teams with the highest number of wins achieved by chasing targets over the last 3 years.</br>
 
-### 🌟Secondary Insights:</br>(Additional research required)
+### 🌟Secondary Insights:</br>&nbsp;(Additional research required)
 
 - Prediction for Orange and Purple Cap players in the 2024 season.</br>
 - Prediction of the top 4 qualifying teams for 2024.</br>
